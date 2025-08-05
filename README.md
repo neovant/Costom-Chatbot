@@ -1,2 +1,2 @@
-# Costom-Chatbot
-This is my first demo Project for Upwork 
+Full-stack project
+This is a protfolio project for my work
